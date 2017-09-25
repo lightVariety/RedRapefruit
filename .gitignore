@@ -1,0 +1,11 @@
+# exclude IDE files
+
+# node modules
+node_modules
+npm-debug.log
+
+# build
+.idea/
+
+# source-map
+.map
