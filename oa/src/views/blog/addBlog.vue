@@ -126,7 +126,7 @@
                         let data = {
                             title: _this.blogForm.title,
                             type: _this.blogForm.category,
-                            content: _this.simple.markdown(_this.simple.value()),
+                            content: _this.simple.value(),
                             des: _this.blogForm.des
                         };
 
